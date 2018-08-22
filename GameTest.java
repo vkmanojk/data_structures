@@ -34,7 +34,7 @@ class GameTest {
 		//questionQ.printQueue();
 		CGame player = new CGame();
 		System.out.println("Final Score = " +player.play(questionQ, discardStack,scan));
-		//System.out.println("Ssize = "+discardStack.size());
+		
 	}
 	
 }
