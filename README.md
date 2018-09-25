@@ -1,2 +1,2 @@
 # data_structures
-Programs are in JAVA
+Programs are in JAVA.
